@@ -32,3 +32,4 @@ Notes and usage details for gh-pr-review.
 - clarify the setup steps
 - fix a small wording issue
 - link the usage section
+- link the usage section
